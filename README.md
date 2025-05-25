@@ -27,3 +27,5 @@ This project showcases a real-time digital clock implemented in JavaScript, feat
    cd Dynamic-Digital-Clock
 
 LIVE DEMO - https://zxy69h.csb.app/
+
+*Created by Bandi Revanth, capturing time with precision and elegance.*
